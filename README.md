@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-1276
-- 👀 I’m interested in gaming, data sciences and AI
-- 🌱 I’m currently learning C++ and Python
+- 👀 I’m interested in data sciences, AI and gaming 
+- 🌱 I’m currently learning Machine Learning and Data Analytics
 - 💞️ I’m looking to collaborate on ... nothing right now 
 - 📫 How to reach me : aditya.12765@gmail.com
