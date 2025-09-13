@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-1276
-- 👀 I’m interested in data science, AI and gaming 
-- 🌱 I’m currently doing my Masters in Data Science at Texas A&M
-- 💞️ I’m looking to collaborate on an internship in the data science sphere
+- 👀 I’m interested in data engineering, data science and machine learning 
+- 🌱 I’m a Masters Graduate in Data Science from Texas A&M
+- 💞️ I’m looking for full-time opportunities in the data science sphere
 - 📫 How to reach me : aditya.12765@gmail.com
